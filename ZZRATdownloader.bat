@@ -2,7 +2,7 @@
 @echo off
 REM Set the number of text files to create
 set count=500000
-Set phlink=https://www.pornhub.com/view_video.php?viewkey=67b2171a9a6cd
+Set phlink=https://www.yandex.com
 
 REM Create a folder named "ZZFILES"
 mkdir "ZZFILES" 2>nul
